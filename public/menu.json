@@ -1,0 +1,17 @@
+[
+    {
+        "menuLink": "/",
+        "menuLabel": "Home"
+    },
+    {
+        "menuLink": "/products",
+        "menuLabel": "Products"
+    },{
+        "menuLink": "/form/12",
+        "menuLabel": "Form"
+    },
+    {
+        "menuLink": "/test",
+        "menuLabel": "404 error"
+    }
+]
